@@ -1,0 +1,5 @@
+<Directory />
+    Options FollowSymLinks
+    AllowOverride None
+    Options -Indexes
+</Directory>
